@@ -195,6 +195,12 @@ namespace Kontakte_verschmelzen
             }
         }
 
+        private bool Daten_schreiben(CKontakt kontakt)
+        {
+            // hier geht es weiter
+            return true;
+        }
+
         private int GetCountofChar(char Char, string String)
         {
             int i = 0;
