@@ -189,7 +189,16 @@ namespace Kontakte_verschmelzen
                     case "BDay":
                         Kontakt.Birthday = Wert;
                         break;
-                        #endregion
+                    #endregion
+
+                    #region Nickname & Event
+                    case "X-ANDROID-CUSTOM":
+                        if (Wert.Substring(23, 9) == "/nickname")
+                            Kontakt.nickname = Wert;
+                        else
+                            Kontakt.ev.Add(Wert);
+                        break;
+                    #endregion
                 }
 
             }

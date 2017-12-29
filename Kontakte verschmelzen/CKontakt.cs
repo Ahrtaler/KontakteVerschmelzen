@@ -22,7 +22,8 @@ namespace Kontakte_verschmelzen
         public string Note = "";
         public string Birthday = "";
         public string img = "";
-        public string LUID = "";
+        public List<string> ev = new List<string>();
+        public string nickname = "";
 
         public System.Drawing.Image getImage()
         {
