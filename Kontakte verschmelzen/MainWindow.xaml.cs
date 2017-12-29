@@ -26,7 +26,6 @@ namespace Kontakte_verschmelzen
             InitializeComponent();
         }
 
-        System.IO.StreamReader file = new StreamReader(@"E:\Eingang\dr.alles.vcf");
         private List<CKontakt> Kontakte = new List<CKontakt>();
 
         private void btn_Start_Click(object sender, RoutedEventArgs e)
@@ -36,6 +35,8 @@ namespace Kontakte_verschmelzen
 
         private void Datei_Einlesen()
         {
+            System.IO.StreamReader file = new StreamReader(@"E:\Eingang\dr.alles.vcf");
+
             string line;
             CKontakt Kontakt = new CKontakt();
 
