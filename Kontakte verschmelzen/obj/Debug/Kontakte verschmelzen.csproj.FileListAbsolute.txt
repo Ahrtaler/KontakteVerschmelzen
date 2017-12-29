@@ -1,0 +1,28 @@
+c:\users\dn\documents\visual studio 2015\Projects\Kontakte verschmelzen\Kontakte verschmelzen\bin\Debug\Kontakte verschmelzen.exe.config
+C:\Users\DN\Documents\Visual Studio 2015\Projects\Kontakte verschmelzen\Kontakte verschmelzen\obj\Debug\Kontakte verschmelzen.csprojResolveAssemblyReference.cache
+C:\Users\DN\Documents\Visual Studio 2015\Projects\Kontakte verschmelzen\Kontakte verschmelzen\obj\Debug\MainWindow.g.cs
+C:\Users\DN\Documents\Visual Studio 2015\Projects\Kontakte verschmelzen\Kontakte verschmelzen\obj\Debug\App.g.cs
+C:\Users\DN\Documents\Visual Studio 2015\Projects\Kontakte verschmelzen\Kontakte verschmelzen\obj\Debug\Kontakte verschmelzen_MarkupCompile.cache
+C:\Users\DN\Documents\Visual Studio 2015\Projects\Kontakte verschmelzen\Kontakte verschmelzen\obj\Debug\Kontakte verschmelzen_MarkupCompile.lref
+C:\Users\DN\Documents\Visual Studio 2015\Projects\Kontakte verschmelzen\Kontakte verschmelzen\bin\Debug\Kontakte verschmelzen.exe
+C:\Users\DN\Documents\Visual Studio 2015\Projects\Kontakte verschmelzen\Kontakte verschmelzen\bin\Debug\Kontakte verschmelzen.pdb
+C:\Users\DN\Documents\Visual Studio 2015\Projects\Kontakte verschmelzen\Kontakte verschmelzen\obj\Debug\MainWindow.baml
+C:\Users\DN\Documents\Visual Studio 2015\Projects\Kontakte verschmelzen\Kontakte verschmelzen\obj\Debug\Kontakte verschmelzen.g.resources
+C:\Users\DN\Documents\Visual Studio 2015\Projects\Kontakte verschmelzen\Kontakte verschmelzen\obj\Debug\Kontakte_verschmelzen.Properties.Resources.resources
+C:\Users\DN\Documents\Visual Studio 2015\Projects\Kontakte verschmelzen\Kontakte verschmelzen\obj\Debug\Kontakte verschmelzen.csproj.GenerateResource.Cache
+C:\Users\DN\Documents\Visual Studio 2015\Projects\Kontakte verschmelzen\Kontakte verschmelzen\obj\Debug\Kontakte verschmelzen.exe
+C:\Users\DN\Documents\Visual Studio 2015\Projects\Kontakte verschmelzen\Kontakte verschmelzen\obj\Debug\Kontakte verschmelzen.pdb
+D:\Dateien\Eigen Hergestellte Sachen\Programme\Projects\Kontakte verschmelzen\Kontakte verschmelzen\bin\Debug\Kontakte verschmelzen.exe.config
+D:\Dateien\Eigen Hergestellte Sachen\Programme\Projects\Kontakte verschmelzen\Kontakte verschmelzen\obj\Debug\Kontakte verschmelzen.exe
+D:\Dateien\Eigen Hergestellte Sachen\Programme\Projects\Kontakte verschmelzen\Kontakte verschmelzen\obj\Debug\Kontakte verschmelzen.pdb
+D:\Dateien\Eigen Hergestellte Sachen\Programme\Projects\Kontakte verschmelzen\Kontakte verschmelzen\bin\Debug\Kontakte verschmelzen.exe
+D:\Dateien\Eigen Hergestellte Sachen\Programme\Projects\Kontakte verschmelzen\Kontakte verschmelzen\bin\Debug\Kontakte verschmelzen.pdb
+D:\Dateien\Eigen Hergestellte Sachen\Programme\Projects\Kontakte verschmelzen\Kontakte verschmelzen\obj\Debug\Kontakte verschmelzen.csprojResolveAssemblyReference.cache
+D:\Dateien\Eigen Hergestellte Sachen\Programme\Projects\Kontakte verschmelzen\Kontakte verschmelzen\obj\Debug\MainWindow.g.cs
+D:\Dateien\Eigen Hergestellte Sachen\Programme\Projects\Kontakte verschmelzen\Kontakte verschmelzen\obj\Debug\App.g.cs
+D:\Dateien\Eigen Hergestellte Sachen\Programme\Projects\Kontakte verschmelzen\Kontakte verschmelzen\obj\Debug\Kontakte verschmelzen_MarkupCompile.cache
+D:\Dateien\Eigen Hergestellte Sachen\Programme\Projects\Kontakte verschmelzen\Kontakte verschmelzen\obj\Debug\Kontakte verschmelzen_MarkupCompile.lref
+D:\Dateien\Eigen Hergestellte Sachen\Programme\Projects\Kontakte verschmelzen\Kontakte verschmelzen\obj\Debug\MainWindow.baml
+D:\Dateien\Eigen Hergestellte Sachen\Programme\Projects\Kontakte verschmelzen\Kontakte verschmelzen\obj\Debug\Kontakte verschmelzen.g.resources
+D:\Dateien\Eigen Hergestellte Sachen\Programme\Projects\Kontakte verschmelzen\Kontakte verschmelzen\obj\Debug\Kontakte_verschmelzen.Properties.Resources.resources
+D:\Dateien\Eigen Hergestellte Sachen\Programme\Projects\Kontakte verschmelzen\Kontakte verschmelzen\obj\Debug\Kontakte verschmelzen.csproj.GenerateResource.Cache
