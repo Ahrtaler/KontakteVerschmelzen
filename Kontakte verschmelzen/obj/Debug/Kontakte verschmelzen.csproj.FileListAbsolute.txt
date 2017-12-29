@@ -26,3 +26,6 @@ D:\Dateien\Eigen Hergestellte Sachen\Programme\Projects\Kontakte verschmelzen\Ko
 D:\Dateien\Eigen Hergestellte Sachen\Programme\Projects\Kontakte verschmelzen\Kontakte verschmelzen\obj\Debug\Kontakte verschmelzen.g.resources
 D:\Dateien\Eigen Hergestellte Sachen\Programme\Projects\Kontakte verschmelzen\Kontakte verschmelzen\obj\Debug\Kontakte_verschmelzen.Properties.Resources.resources
 D:\Dateien\Eigen Hergestellte Sachen\Programme\Projects\Kontakte verschmelzen\Kontakte verschmelzen\obj\Debug\Kontakte verschmelzen.csproj.GenerateResource.Cache
+C:\Users\DN\Source\K\KontakteVerschmelzen\Kontakte verschmelzen\bin\Debug\Kontakte verschmelzen.exe.config
+C:\Users\DN\Source\K\KontakteVerschmelzen\Kontakte verschmelzen\obj\Debug\Kontakte verschmelzen.exe
+C:\Users\DN\Source\K\KontakteVerschmelzen\Kontakte verschmelzen\obj\Debug\Kontakte verschmelzen.pdb

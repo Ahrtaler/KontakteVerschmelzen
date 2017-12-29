@@ -31,6 +31,11 @@ namespace Kontakte_verschmelzen
 
         private void btn_Start_Click(object sender, RoutedEventArgs e)
         {
+            
+        }
+
+        private void Datei_Einlesen()
+        {
             string line;
             CKontakt Kontakt = new CKontakt();
 
@@ -66,7 +71,7 @@ namespace Kontakte_verschmelzen
                     while (Typ[i] != ';')
                         i++;
 
-                    Untertyp = Typ.Substring(i+1);
+                    Untertyp = Typ.Substring(i + 1);
                     Typ = Typ.Substring(0, i);
                 }
 
@@ -151,7 +156,7 @@ namespace Kontakte_verschmelzen
 
                     #region Adr
                     case "ADR":
-                            Kontakt.Adr.Add(new Itm(Untertyp, Wert));
+                        Kontakt.Adr.Add(new Itm(Untertyp, Wert));
                         break;
                     #endregion
 
