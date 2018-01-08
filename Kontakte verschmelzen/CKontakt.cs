@@ -24,6 +24,7 @@ namespace Kontakte_verschmelzen
         public string img = "";
         public List<string> ev = new List<string>();
         public string nickname = "";
+        public List<Itm> MessegersAndOthers = new List<Itm>();
 
         public System.Drawing.Image getImage()
         {
