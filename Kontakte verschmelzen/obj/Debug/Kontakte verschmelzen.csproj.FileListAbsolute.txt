@@ -40,3 +40,18 @@ C:\Users\DN\Source\K\KontakteVerschmelzen\Kontakte verschmelzen\obj\Debug\MainWi
 C:\Users\DN\Source\K\KontakteVerschmelzen\Kontakte verschmelzen\obj\Debug\Kontakte verschmelzen.g.resources
 C:\Users\DN\Source\K\KontakteVerschmelzen\Kontakte verschmelzen\obj\Debug\Kontakte_verschmelzen.Properties.Resources.resources
 C:\Users\DN\Source\K\KontakteVerschmelzen\Kontakte verschmelzen\obj\Debug\Kontakte verschmelzen.csproj.GenerateResource.Cache
+D:\Dateien\Git\Programme\KontakteVerschmelzen\Kontakte verschmelzen\bin\Debug\Kontakte verschmelzen.exe.config
+D:\Dateien\Git\Programme\KontakteVerschmelzen\Kontakte verschmelzen\bin\Debug\Kontakte verschmelzen.exe
+D:\Dateien\Git\Programme\KontakteVerschmelzen\Kontakte verschmelzen\bin\Debug\Kontakte verschmelzen.pdb
+D:\Dateien\Git\Programme\KontakteVerschmelzen\Kontakte verschmelzen\obj\Debug\Kontakte verschmelzen.csprojAssemblyReference.cache
+D:\Dateien\Git\Programme\KontakteVerschmelzen\Kontakte verschmelzen\obj\Debug\MainWindow.g.cs
+D:\Dateien\Git\Programme\KontakteVerschmelzen\Kontakte verschmelzen\obj\Debug\App.g.cs
+D:\Dateien\Git\Programme\KontakteVerschmelzen\Kontakte verschmelzen\obj\Debug\Kontakte verschmelzen_MarkupCompile.cache
+D:\Dateien\Git\Programme\KontakteVerschmelzen\Kontakte verschmelzen\obj\Debug\Kontakte verschmelzen_MarkupCompile.lref
+D:\Dateien\Git\Programme\KontakteVerschmelzen\Kontakte verschmelzen\obj\Debug\MainWindow.baml
+D:\Dateien\Git\Programme\KontakteVerschmelzen\Kontakte verschmelzen\obj\Debug\Kontakte verschmelzen.g.resources
+D:\Dateien\Git\Programme\KontakteVerschmelzen\Kontakte verschmelzen\obj\Debug\Kontakte_verschmelzen.Properties.Resources.resources
+D:\Dateien\Git\Programme\KontakteVerschmelzen\Kontakte verschmelzen\obj\Debug\Kontakte verschmelzen.csproj.GenerateResource.cache
+D:\Dateien\Git\Programme\KontakteVerschmelzen\Kontakte verschmelzen\obj\Debug\Kontakte verschmelzen.csproj.CoreCompileInputs.cache
+D:\Dateien\Git\Programme\KontakteVerschmelzen\Kontakte verschmelzen\obj\Debug\Kontakte verschmelzen.exe
+D:\Dateien\Git\Programme\KontakteVerschmelzen\Kontakte verschmelzen\obj\Debug\Kontakte verschmelzen.pdb
