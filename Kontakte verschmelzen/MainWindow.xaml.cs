@@ -58,12 +58,11 @@ namespace Kontakte_verschmelzen
                     string Wert = "";
 
                     while (i < line.Length && line[i] != ':')
-                    {
-                        Typ += line[i];
                         i++;
-                    }
 
-                    if(i >= line.Length)
+                    Typ = line.Substring(0, i);
+
+                    if (i >= line.Length)
                     {
                         Typ = "";
                     }
@@ -226,11 +225,11 @@ namespace Kontakte_verschmelzen
                             default:
                                 Kontakt.MessegersAndOthers.Add(new Itm(Typ, Wert));
                                 break;
-                            #endregion
+                                #endregion
                         }
                         Typbefore = Typ;
                     }
-                    else if(Typbefore == "PHOTO")
+                    else if (Typbefore == "PHOTO")
                     {
                         Kontakt.img += CleanString(line);
                     }
@@ -240,6 +239,8 @@ namespace Kontakte_verschmelzen
                     }
                 }
             }
+
+            displayList.ItemsSource = Kontakte;
         }
 
         private string CleanString(string value)

@@ -11,7 +11,7 @@ namespace Kontakte_verschmelzen
     {
         public string version = "";
         public _Name Name = new _Name();
-        public string FullName = "";
+        public string FullName { get; set; } = "";
         public Phonetic_Name PhoneticName = new Phonetic_Name();
         public List<Itm> TelNumber = new List<Itm>();
         public List<Itm> EMail = new List<Itm>();

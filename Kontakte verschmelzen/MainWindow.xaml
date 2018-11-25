@@ -10,12 +10,14 @@
         <Grid.ColumnDefinitions>
             <ColumnDefinition/>
             <ColumnDefinition/>
+            <ColumnDefinition/>
         </Grid.ColumnDefinitions>
 
-        <ListView>
+        <ListView x:Name="displayList">
+            
             <ListView.View>
                 <GridView>
-                    <GridViewColumn Header="Präfix" DisplayMemberBinding="{Binding Praefix}"/>
+                    <GridViewColumn Header="Full Name" DisplayMemberBinding="{Binding FullName}"/>
                     <GridViewColumn Header="Vorname" DisplayMemberBinding="{Binding VorName}"/>
                     <GridViewColumn Header="Zweitname" DisplayMemberBinding="{Binding ZweitName}"/>
                     <GridViewColumn Header="Nachname" DisplayMemberBinding="{Binding NachName}"/>
@@ -25,5 +27,11 @@
         </ListView>
 
         <Button Grid.Column="1" x:Name="btn_Start" Click="btn_Start_Click" />
+
+        <StackPanel Grid.Column="2">
+            <CheckBox FlowDirection="LeftToRight">
+                <TextBlock FlowDirection="LeftToRight" Text="Full Name" />
+            </CheckBox>
+        </StackPanel>
     </Grid>
 </Window>
