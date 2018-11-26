@@ -26,6 +26,32 @@ namespace Kontakte_verschmelzen
         public string nickname = "";
         public List<Itm> MessegersAndOthers = new List<Itm>();
 
+        public String Praefix
+        {
+            get { return Name.Praefix; }
+        }
+
+        public String VorName
+        {
+            get { return Name.VorName; }
+        }
+
+        public String NachName
+        {
+            get { return Name.NachName; }
+        }
+
+        public String ZweitName
+        {
+            get { return Name.ZweitName; }
+        }
+
+        public String Suffix
+        {
+            get { return Name.Suffix; }
+        }
+
+
         public System.Drawing.Image getImage()
         {
             byte[] buffer = Convert.FromBase64String(img);
@@ -43,11 +69,11 @@ namespace Kontakte_verschmelzen
 
     class _Name
     {
-        public string Praefix = "";
-        public string VorName = "";
-        public string ZweitName = "";
-        public string NachName = "";
-        public string Suffix = "";
+        public string Praefix { get; set; } = "";
+        public string VorName { get; set; }  = "";
+        public string ZweitName { get; set; } = "";
+        public string NachName { get; set; } = "";
+        public string Suffix { get; set; } = "";
     }
 
     class Phonetic_Name

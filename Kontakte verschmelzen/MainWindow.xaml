@@ -18,6 +18,7 @@
             <ListView.View>
                 <GridView>
                     <GridViewColumn Header="Full Name" DisplayMemberBinding="{Binding FullName}"/>
+                    <GridViewColumn Header="Full Name" DisplayMemberBinding="{Binding Praefix}"/>
                     <GridViewColumn Header="Vorname" DisplayMemberBinding="{Binding VorName}"/>
                     <GridViewColumn Header="Zweitname" DisplayMemberBinding="{Binding ZweitName}"/>
                     <GridViewColumn Header="Nachname" DisplayMemberBinding="{Binding NachName}"/>
