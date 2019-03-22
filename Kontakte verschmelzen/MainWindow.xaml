@@ -10,29 +10,23 @@
         <Grid.ColumnDefinitions>
             <ColumnDefinition/>
             <ColumnDefinition/>
-            <ColumnDefinition/>
         </Grid.ColumnDefinitions>
 
         <ListView x:Name="displayList">
             
             <ListView.View>
                 <GridView>
-                    <GridViewColumn Header="Full Name" DisplayMemberBinding="{Binding FullName}"/>
-                    <GridViewColumn Header="Full Name" DisplayMemberBinding="{Binding Praefix}"/>
-                    <GridViewColumn Header="Vorname" DisplayMemberBinding="{Binding VorName}"/>
-                    <GridViewColumn Header="Zweitname" DisplayMemberBinding="{Binding ZweitName}"/>
-                    <GridViewColumn Header="Nachname" DisplayMemberBinding="{Binding NachName}"/>
-                    <GridViewColumn Header="Sufix" DisplayMemberBinding="{Binding Suffix}"/>
+                    <GridViewColumn Header="Name" DisplayMemberBinding="{Binding FullName}"/>
+                    <GridViewColumn Header="Home" DisplayMemberBinding="{Binding HomePhoneNumber}"/>
+                    <GridViewColumn Header="Cellphone" DisplayMemberBinding="{Binding CellPhoneNumber}"/>
+                    <GridViewColumn Header="E-Mail" DisplayMemberBinding="{Binding HomeEmail}"/>
+                    <GridViewColumn Header="Work E-Mail" DisplayMemberBinding="{Binding WorkEmail}"/>
+                    <GridViewColumn Header="Birthday" DisplayMemberBinding="{Binding Birthday}"/>
                 </GridView>
             </ListView.View>
         </ListView>
 
         <Button Grid.Column="1" x:Name="btn_Start" Click="btn_Start_Click" />
 
-        <StackPanel Grid.Column="2">
-            <CheckBox FlowDirection="LeftToRight">
-                <TextBlock FlowDirection="LeftToRight" Text="Full Name" />
-            </CheckBox>
-        </StackPanel>
     </Grid>
 </Window>

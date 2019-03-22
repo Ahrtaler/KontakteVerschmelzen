@@ -20,36 +20,11 @@ namespace Kontakte_verschmelzen
         public string Titel = "";
         public List<string> Website = new List<string>();
         public string Note = "";
-        public string Birthday = "";
+        public string Birthday { get; set; } = "";
         public string img = "";
         public List<string> ev = new List<string>();
         public string nickname = "";
         public List<Itm> MessegersAndOthers = new List<Itm>();
-
-        public String Praefix
-        {
-            get { return Name.Praefix; }
-        }
-
-        public String VorName
-        {
-            get { return Name.VorName; }
-        }
-
-        public String NachName
-        {
-            get { return Name.NachName; }
-        }
-
-        public String ZweitName
-        {
-            get { return Name.ZweitName; }
-        }
-
-        public String Suffix
-        {
-            get { return Name.Suffix; }
-        }
 
 
         public System.Drawing.Image getImage()
@@ -65,6 +40,57 @@ namespace Kontakte_verschmelzen
                 return null;
         }
 
+        public string HomePhoneNumber
+        {
+            get
+            {
+                foreach(Itm item in TelNumber) 
+                {
+                    if (item.Name == "HOME")
+                        return item.Wert;
+                }
+                return "";
+            }
+        }
+
+        public string CellPhoneNumber
+        {
+            get
+            {
+                foreach (Itm item in TelNumber)
+                {
+                    if (item.Name == "CELL")
+                        return item.Wert;
+                }
+                return "";
+            }
+        }
+
+        public string HomeEmail
+        {
+            get
+            {
+                foreach (Itm item in EMail)
+                {
+                    if (item.Name == "HOME")
+                        return item.Wert;
+                }
+                return "";
+            }
+        }
+
+        public string WorkEmail
+        {
+            get
+            {
+                foreach (Itm item in EMail)
+                {
+                    if (item.Name == "WORK")
+                        return item.Wert;
+                }
+                return "";
+            }
+        }
     }
 
     class _Name

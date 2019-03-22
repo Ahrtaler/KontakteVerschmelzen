@@ -30,7 +30,7 @@ namespace Kontakte_verschmelzen
 
         private void btn_Start_Click(object sender, RoutedEventArgs e)
         {
-            Datei_Einlesen(@"E:\Eingang\drmi.vcf");
+            Datei_Einlesen(@"E:\Eingang\contacts.vcf");
         }
 
         private void Datei_Einlesen(string path)
